@@ -17,7 +17,7 @@ Wireless communication system(Data-link): Diversity-archieving LDPC code design
 
 Security (Data-link): Accelerating Code-based post-quantum cyrptography
 
-Distributed storage system(Application): New design and computing acceleration of erasure coding
+Distributed storage system(Application): New design and computing acceleration of tge erasure coding
 
 IoT and Edge computing (Application) : Enhancing adpative power allocation in LoRaWAN environment
 
