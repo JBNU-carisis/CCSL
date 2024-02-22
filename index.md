@@ -1,9 +1,21 @@
 ---
 ---
 
-# JBNU-carisis's Website
+# CCSL(Computing and Communication System Lab. 컴퓨팅 및 통신 시스템 연구실)
 
-An engaging 1-3 sentence description of your lab.
+Our group is interested in the reliable design, theoretical analysis and practical implementation for the modern the computing and communication systems.
+
+Our main research topics include (but not limited to) 
+
+1) Erasure coding for distributed storage system
+
+2) Low-latency ECC for reliable memory and interconnect system
+
+3) Diversity-archieving LDPC coding for future communication system
+
+4) Code-based post-quantum cyrptography
+
+
 
 {% include section.html %}
 
