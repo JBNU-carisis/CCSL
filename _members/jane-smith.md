@@ -3,7 +3,7 @@ name: Chanki Kim
 image: images/photo.jpg
 role: pi
 aliases:
-  - C. Kim
+  - Chanki Kim
 links:
   home-page: https://jbnu-carisis.github.io/CCSL/
   orcid: 0000-0002-8916-8955
