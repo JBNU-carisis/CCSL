@@ -7,12 +7,9 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@JBNU-carisis.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: JBNU-carisis
-  twitter: JBNU-carisis
-  youtube: JBNU-carisis
+  email: carisis@jbnu.ac.kr
+  orcid: 0000-0002-8916-8955
+  google-scholar: https://scholar.google.co.kr/citations?user=0-uxjiQAAAAJ&hl=ko
 
 ### jekyll settings
 
