@@ -1,7 +1,8 @@
 ---
 ---
 
-# CCSL(Computing and Communication System Lab. 컴퓨팅 및 통신 시스템 연구실)
+# CCSL(Computing and Communication System Lab.
+# 컴퓨팅 및 통신 시스템 연구실
 
 Our group is interested in the reliable design for the modern the computing and communication systems.
 Currently, Our main research topics include (but not limited to) 
