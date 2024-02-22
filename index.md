@@ -3,19 +3,16 @@
 
 # CCSL(Computing and Communication System Lab. 컴퓨팅 및 통신 시스템 연구실)
 
-Our group is interested in the reliable design, theoretical analysis and practical implementation for the modern the computing and communication systems.
+Our group is interested in the reliable design for the modern the computing and communication systems.
+Currently, Our main research topics include (but not limited to) 
+현재 연구 그룹은 고성능, 클라우드 통신 및 컴퓨팅 시스템의 고신뢰 설계에 대한 연구를 수행하고 있습니다. 
+주요 연구 분야 및 주제는 다음과 같습니다.
 
-Our main research topics include (but not limited to) 
-
-1) Erasure coding for distributed storage system
-
-2) Low-latency ECC for reliable memory and interconnect system
-
-3) Diversity-archieving LDPC coding for future communication system
-
-4) Code-based post-quantum cyrptography
-
-
+1) Optical communication(Physical): Low-latency ECC design for the reliable memory and interconnect system
+2) Wireless communication system(Data-link): Diversity-archieving LDPC code design 
+3) Security (Data-link): Accelerating Code-based post-quantum cyrptography
+4) Distributed storage system(Application): New design and computing acceleration of erasure coding 
+5) IoT and Edge computing (Application) : Enhancing adpative power allocation in LoRaWAN environment
 
 {% include section.html %}
 
