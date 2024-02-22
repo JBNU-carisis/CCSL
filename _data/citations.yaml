@@ -13,6 +13,68 @@
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/LWC.2022.3190026
+  title: Design of Protograph LDPC Codes Using Resolvable Block Designs for Block
+    Fading Channel
+  authors:
+  - Jaewha Kim
+  - Chanki Kim
+  - Hosung Park
+  - Jong-Seon No
+  publisher: IEEE Wireless Communications Letters
+  date: '2022-09-01'
+  link: https://doi.org/gtjhzv
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3229427
+  title: New Design of Error Control Codes Resilient to Single Burst Error or Two
+    Random Bit Errors Using Constacyclic Codes
+  authors:
+  - Chanki Kim
+  - Jae-Won Kim
+  - Jong-Seon No
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/gtjhzw
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3107838
+  title: New Design and Analysis of Error-Resilient LRCs for DSSs With Silent Disk
+    Errors
+  authors:
+  - Chanki Kim
+  - Jong-Seon No
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/gtjhzx
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCOMM.2020.3011964
+  title: New GRP LDPC Codes for H-ARQ-IR Over the Block Fading Channel
+  authors:
+  - Chanki Kim
+  - Sang-Hyo Kim
+  - Jong-Seon No
+  publisher: IEEE Transactions on Communications
+  date: '2020-11-01'
+  link: https://doi.org/gtjhzz
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.3022460
+  title: New Two-Stage Automorphism Group Decoders for Cyclic Codes
+  authors:
+  - Chanki Kim
+  - Jong-Seon No
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/gtjhz2
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/LCOMM.2019.2892950
   title: New Constructions of Binary LRCs With Disjoint Repair Groups and Locality
     3 Using Existing LRCs
@@ -40,15 +102,30 @@
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/LCOMM.2017.2776141
-  title: New Constructions of Binary and Ternary Locally Repairable Codes Using Cyclic
-    Codes
+- id: doi:10.3390/electronics8060596
+  title: Overview of Binary Locally Repairable Codes for Distributed Storage Systems
   authors:
+  - Young-Sik Kim
   - Chanki Kim
   - Jong-Seon No
-  publisher: IEEE Communications Letters
-  date: '2018-02-01'
-  link: https://doi.org/gtjhsq
+  publisher: Electronics
+  date: '2019-05-28'
+  link: https://doi.org/gtjhz3
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/ELINFOCOM.2019.8706494
+  title: Polar code interleaver for higher order modulation
+  authors:
+  - Gangsan Kim
+  - Hong-Yeop Song
+  - Chanki Kim
+  - Jong-Seon No
+  - Jaeha Ahn
+  publisher: 2019 International Conference on Electronics, Information, and Communication
+    (ICEIC)
+  date: '2019-01-01'
+  link: https://doi.org/gtjhz4
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
@@ -68,12 +145,40 @@
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/LCOMM.2017.2776141
+  title: New Constructions of Binary and Ternary Locally Repairable Codes Using Cyclic
+    Codes
+  authors:
+  - Chanki Kim
+  - Jong-Seon No
+  publisher: IEEE Communications Letters
+  date: '2018-02-01'
+  link: https://doi.org/gtjhsq
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
 - id: eid:2-s2.0-85094432578
   title: New two-stage automorphism group decoders for cyclic codes in the erasure
     channel
   publisher: arXiv
-  date: '2022-06-02'
+  date: '2024-02-22'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094432578&partnerID=MN8TOARS
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICTC.2016.7763538
+  title: Anti-jamming partially regular LDPC codes for follower jamming with Rayleigh
+    block fading in frequency hopping spread spectrum
+  authors:
+  - Chanki Kim
+  - Jong-Seon No
+  - Jinsoo Park
+  - Hong-Yeop Song
+  - Jaeha Ahn
+  publisher: 2016 International Conference on Information and Communication Technology
+    Convergence (ICTC)
+  date: '2016-10-01'
+  link: https://doi.org/gtjhz5
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
