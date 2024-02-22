@@ -14,14 +14,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="carisis@jbnu.ac.kr"
+  link="carisis@jbnu.ac.kr"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(063)-270-4659"
+  link="+82-063-270-4659"
 %}
 {%
   include button.html
