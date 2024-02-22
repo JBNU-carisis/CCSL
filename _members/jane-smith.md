@@ -1,19 +1,12 @@
 ---
-name: Jane Smith
+name: Chanki Kim
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - C. Kim
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://jbnu-carisis.github.io/CCSL/
+  orcid: 0000-0002-8916-8955
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Prof. chanki Kim is an assistant professor at Jeonbuk National University, Division of Computer Science and Engineering, Jeonju, South Korea. He received the B.S., and Ph.D. degrees in electrical and computer engineering from Seoul National University, Seoul, South Korea, in 2013, and 2019, respectively. He was a senior engineer with Samsung Electronics Co., Ltd, Hwaseong, Gyeonggi-do, South Korea in 2019. He was a senior researcher with division of national supercomputing at Korea Institute of Science and Technology Information (KISTI), Daejeon, South Korea until March 2021. He was an assistant professor at Chosun University, Department of Information and Communication until Feburary 2023.
