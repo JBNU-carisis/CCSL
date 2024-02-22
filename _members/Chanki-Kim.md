@@ -1,4 +1,4 @@
-![image](https://github.com/JBNU-carisis/CCSL/assets/105095190/2d0e6481-fc4f-4ba7-a481-d2fe0499146e)---
+---
 name: Chanki Kim
 image: images/Ckim_img.jpg
 role: pi
