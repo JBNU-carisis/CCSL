@@ -1,6 +1,6 @@
 ---
 name: Chanki Kim
-image: images/photo.jpg
+image: images/CKim_img.jpg
 role: pi
 aliases:
   - Chanki Kim
