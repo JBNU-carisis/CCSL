@@ -20,3 +20,5 @@
   tags:
     - Code acceleration
     - Post-quantum cryptography
+  plugin: sources.py
+  file: sources.yaml
