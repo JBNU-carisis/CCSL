@@ -30,5 +30,5 @@
   date:
   link: 
   orcid: 
-  plugin: 
-  file: 
+  plugin: sources.py
+  file: sources.yaml
