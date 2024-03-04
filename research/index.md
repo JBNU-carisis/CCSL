@@ -36,3 +36,19 @@ IoT and Edge computing (Application) : Enhancing adpative power allocation in Lo
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+
+## Domestic Journal & Conference (국외 저널 및 학회지)
+
+김찬기. "LoRaWAN 환경에서 원근 관계에 따른 ADR 알고리즘 내 SNR 마진 및 시스템 성능 관계에 대한 연구," 한국통신학회 추계종합학술발표회, 2023, pp. 451-452.
+
+김찬기, 김상효. "GRP LDPC 부호를 활용한 다이버시티 근접 부호화 STBC 및 HARQ-IR 시스템에 관한 연구," 한국통신학회 하계종합학술발표회, 2023, pp. 1476-1478.
+
+김찬기. "단일 오류 정정 및 3 비트 심볼 내 2 스포티 오류 정정이 가능한 오류정정부호의 새로운 설계 연구" 한국통신학회 동계종합학술발표회, 2023, pp. 293-294.
+
+김찬기. "저지연 응용을 위한 이진 대칭 채널 상의 비정규 LDPC 부호 구조 연구," 한국통신학회 하계종합학술발표회, 2022, pp. 1889-1890.
+
+김찬기. "부분 접속 복구 부호가 적용된 분산 저장 시스템의 복구 지연 분석," 한국통신학회 추계종합학술발표회, 2021, pp. 43-44.
+
+
+
