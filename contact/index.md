@@ -27,7 +27,7 @@ E-mail: carisis@jbnu.ac.kr
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/JyojCjTowv5qo6iUA)"
+  link="https://maps.app.goo.gl/JyojCjTowv5qo6iUA"
 %}
 
 {% include section.html %}
