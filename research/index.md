@@ -29,7 +29,7 @@ IoT and Edge computing (Application) : Enhancing adpative power allocation in Lo
 
 {% include section.html %}
 
-## All
+## International Journal & Conference (국외 저널 및 학회지)
 
 {% include search-box.html %}
 
