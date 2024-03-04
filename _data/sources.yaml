@@ -17,26 +17,6 @@
   repo: greenelab/meta-review
 
 - id: doi:10.1109/LCOMM.2023.3257136
-  title: New Design of Blockwise Interleaved Ideal Low-Rank Parity-Check Codes for
-    Fast Post-Quantum Cryptography
-  authors:
-  - Chanki Kim
-  - Young-Sik Kim
-  - Jong-Seon No
-  publisher: IEEE Communications Letters
-  date: '2023-05-01'
-  link: https://doi.org/gtjhsm
-  orcid: 0000-0002-8916-8955
-  plugin: orcid.py
-    buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
   tags:
     - Code acceleration
     - Post-quantum cryptography
-  file: orcid.yaml
