@@ -160,15 +160,6 @@
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85094432578
-  title: New two-stage automorphism group decoders for cyclic codes in the erasure
-    channel
-  publisher: arXiv
-  date: '2024-02-22'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094432578&partnerID=MN8TOARS
-  orcid: 0000-0002-8916-8955
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1109/ICTC.2016.7763538
   title: Anti-jamming partially regular LDPC codes for follower jamming with Rayleigh
     block fading in frequency hopping spread spectrum
