@@ -14,7 +14,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - Code acceleration
+  - Rank-metric codes
   - Post-quantum cryptography
 - id: doi:10.1109/LWC.2022.3190026
   title: Design of Protograph LDPC Codes Using Resolvable Block Designs for Block
