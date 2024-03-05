@@ -22,13 +22,3 @@
     - Post-quantum cryptography
   plugin: sources.py
   file: sources.yaml
-
-
-- id: eid:2-s2.0-85094432578
-  title: 
-  publisher: 
-  date:
-  link: 
-  orcid: 
-  plugin: sources.py
-  file: sources.yaml
