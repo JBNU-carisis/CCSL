@@ -38,7 +38,7 @@ IoT and Edge computing (Application) : Enhancing adpative power allocation in Lo
 {% include list.html data="citations" component="citation" style="rich" %}
 
 
-## Domestic Journal & Conference (국외 저널 및 학회지)
+## Domestic Journal & Conference (국내 저널 및 학회지)
 
 김찬기. "기존 원시 다항식의 함수 합성을 통한 고차수 원시 다항식의 새로운 생성 방법," 통신정보 합동학술대회 (JCCI), 부산, 2024, To be appeared
 
