@@ -12,6 +12,18 @@
   orcid: 0000-0002-8916-8955
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s10586-024-04438-y
+  title: Accelerating erasure coding by exploiting multiple repair paths in distributed
+    storage systems
+  authors:
+  - Chanki Kim
+  - Kang-Wook Chon
+  publisher: Cluster Computing
+  date: '2024-04-12'
+  link: https://doi.org/gtvssm
+  orcid: 0000-0002-8916-8955
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/LCOMM.2023.3257136
   title: New Design of Blockwise Interleaved Ideal Low-Rank Parity-Check Codes for
     Fast Post-Quantum Cryptography
